@@ -1,8 +1,7 @@
-meuapp/
+Go/
 ├── db/
-│   ├── db.go
+│   ├── config.go
 │   └── user.go
 ├── handlers/
-│   ├── handlers.go
-│   └── user.go
+│   ├── router.go
 └── main.go
